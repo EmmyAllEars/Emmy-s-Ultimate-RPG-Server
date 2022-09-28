@@ -1,6 +1,8 @@
 # Emmy's Ultimate RPG Server
 
-A modpack focused on exploration and expanded progression
+A modpack focused on exploration and expanded progression.
+
+![EURPG Banner](https://i.imgur.com/qkCnurA.png)
 
 ## Features
 
