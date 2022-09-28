@@ -2,13 +2,15 @@
 
 **Added:**
 - Polymorph
-- DarkRecipes (Serverside only)
+- DarkBindings
 
 **Updated:**
 - multiple mods
 
 **Removed:**
 - Straw Golem Rebaled
+- Capybara
+- Lovely Snails
 
 View full changelog at https://github.com/EmmyAllEars/Emmy-s-Ultimate-RPG-Server/blob/main/CHANGELOG.md
 
