@@ -1,0 +1,6 @@
+{
+	// Blacklisted mobs will not be captured by the pokeball, ex: minecraft:zombie
+	"BLACKLIST": [],
+	// Is it possible to capture all types of entities, if true, non-living things like boats can be captured
+	"allowCaptureOfAllTypes": false
+}

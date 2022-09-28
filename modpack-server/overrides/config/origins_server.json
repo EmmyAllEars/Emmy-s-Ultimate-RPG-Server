@@ -1,0 +1,288 @@
+{
+  "performVersionCheck": true,
+  "origins": {
+    "origins:enderian": {
+      "enabled": true,
+      "origins:throw_ender_pearl": true,
+      "origins:water_vulnerability": true,
+      "origins:pumpkin_hate": true,
+      "origins:extra_reach": true,
+      "origins:ender_particles": true,
+      "origins:damage_from_potions": true
+    },
+    "origins:arachnid": {
+      "enabled": true,
+      "origins:climbing": true,
+      "origins:master_of_webs": true,
+      "origins:carnivore": true,
+      "origins:fragile": true,
+      "origins:arthropod": true
+    },
+    "origins:human": {
+      "enabled": true
+    },
+    "origins:blazeborn": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:burning_wrath": true,
+      "origins:hotblooded": true,
+      "origins:water_vulnerability": true,
+      "origins:flame_particles": true,
+      "origins:damage_from_snowballs": true,
+      "origins:damage_from_potions": true
+    },
+    "origins:avian": {
+      "enabled": true,
+      "origins:slow_falling": true,
+      "origins:fresh_air": true,
+      "origins:like_air": true,
+      "origins:tailwind": true,
+      "origins:lay_eggs": true,
+      "origins:vegetarian": true
+    },
+    "origins:feline": {
+      "enabled": false,
+      "origins:fall_immunity": true,
+      "origins:sprint_jump": true,
+      "origins:velvet_paws": true,
+      "origins:nine_lives": true,
+      "origins:weak_arms": true,
+      "origins:scare_creepers": true,
+      "origins:cat_vision": true
+    },
+    "origins:elytrian": {
+      "enabled": true,
+      "origins:elytra": true,
+      "origins:launch_into_air": true,
+      "origins:aerial_combatant": true,
+      "origins:light_armor": true,
+      "origins:claustrophobia": true,
+      "origins:more_kinetic_damage": true
+    },
+    "origins:shulk": {
+      "enabled": true,
+      "origins:shulker_inventory": true,
+      "origins:natural_armor": true,
+      "origins:strong_arms": true,
+      "origins:strong_arms_break_speed": true,
+      "origins:no_shield": true,
+      "origins:more_exhaustion": true
+    },
+    "origins:merling": {
+      "enabled": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "origins:phantom": {
+      "enabled": true,
+      "origins:phantomize": true,
+      "origins:translucent": true,
+      "origins:phasing": true,
+      "origins:invisibility": true,
+      "origins:burn_in_daylight": true,
+      "origins:hunger_over_time": true,
+      "origins:fragile": true,
+      "origins:phantomize_overlay": true
+    },
+    "origins-classes:nitwit": {
+      "enabled": true
+    },
+    "origins-classes:lumberjack": {
+      "enabled": true,
+      "origins-classes:tree_felling": true,
+      "origins-classes:more_planks_from_logs": true
+    },
+    "origins-classes:warrior": {
+      "enabled": true,
+      "origins-classes:more_attack_damage": true,
+      "origins-classes:less_shield_slowdown": true
+    },
+    "origins-classes:cleric": {
+      "enabled": true,
+      "origins-classes:longer_potions": true,
+      "origins-classes:better_enchanting": true
+    },
+    "origins-classes:explorer": {
+      "enabled": true,
+      "origins-classes:explorer_kit": true,
+      "origins-classes:no_sprint_exhaustion": true
+    },
+    "origins-classes:beastmaster": {
+      "enabled": true,
+      "origins-classes:tamed_animal_boost": true,
+      "origins-classes:tamed_potion_diffusal": true
+    },
+    "origins-classes:merchant": {
+      "enabled": true,
+      "origins-classes:trade_availability": true,
+      "origins-classes:rare_wandering_loot": true
+    },
+    "origins-classes:rancher": {
+      "enabled": true,
+      "origins-classes:twin_breeding": true,
+      "origins-classes:more_animal_loot": true
+    },
+    "origins-classes:archer": {
+      "enabled": true,
+      "origins-classes:no_projectile_divergence": true,
+      "origins-classes:less_bow_slowdown": true
+    },
+    "origins-classes:farmer": {
+      "enabled": true,
+      "origins-classes:more_crop_drops": true,
+      "origins-classes:better_bone_meal": true
+    },
+    "origins-classes:miner": {
+      "enabled": true,
+      "origins-classes:more_stone_break_speed": true,
+      "origins-classes:no_mining_exhaustion": true
+    },
+    "origins-classes:blacksmith": {
+      "enabled": true,
+      "origins-classes:quality_equipment": true,
+      "origins-classes:efficient_repairs": true
+    },
+    "origins-classes:cook": {
+      "enabled": true,
+      "origins-classes:better_crafted_food": true,
+      "origins-classes:more_smoker_xp": true
+    },
+    "origins-classes:rogue": {
+      "enabled": true,
+      "origins-classes:sneaky": true,
+      "origins-classes:stealth": true,
+      "origins-classes:stealth_descriptor": true
+    },
+    "dragon_kin:dragonkin": {
+      "enabled": true,
+      "dragon_kin:elytra": true,
+      "dragon_kin:launch": true,
+      "dragon_kin:boost": true,
+      "dragon_kin:eat_meat": true,
+      "dragon_kin:slow_on_ground": true,
+      "dragon_kin:nofalldamage": true,
+      "dragon_kin:health_boost": true,
+      "dragon_kin:defense": true,
+      "dragon_kin:boosttest": true,
+      "dragon_kin:damageboost": true
+    },
+    "antimatter:antimatter": {
+      "enabled": true,
+      "antimatter:flight": true,
+      "antimatter:move_faster": true
+    },
+    "dragon_kin:dragondemigod": {
+      "enabled": true,
+      "dragon_kin:boosttest": true,
+      "dragon_kin:defenseupgrade": true,
+      "dragon_kin:health_boost_upgrade": true,
+      "dragon_kin:launch": true,
+      "dragon_kin:nofalldamage": true,
+      "dragon_kin:elytra": true,
+      "dragon_kin:damageboost": true
+    },
+    "dac:butcher": {
+      "enabled": true,
+      "dac:better_meat": true,
+      "dac:favourite_tool": true
+    },
+    "dac:wandering_trader": {
+      "enabled": true,
+      "dac:morning_deliveries": true,
+      "dac:elder_experience": true
+    },
+    "dac:baker": {
+      "enabled": true,
+      "dac:more_bread": true,
+      "dac:professional_baker": true
+    },
+    "mechanhis:mechanhis": {
+      "enabled": true,
+      "mechanhis:heavy_hitter": true,
+      "mechanhis:ore_affinity": true,
+      "mechanhis:corrosion": true,
+      "mechanhis:sturdy": true
+    },
+    "dragon_kin:dragongod": {
+      "enabled": true,
+      "dragon_kin:damageboostplus": true,
+      "dragon_kin:defenseplus": true,
+      "dragon_kin:health_boost_plus": true,
+      "dragon_kin:boosttest": true,
+      "dragon_kin:launch": true,
+      "dragon_kin:elytra": true,
+      "dragon_kin:nofalldamage": true
+    },
+    "punorigins:feline": {
+      "enabled": true,
+      "origins:fall_immunity": true,
+      "origins:sprint_jump": true,
+      "origins:velvet_paws": true,
+      "origins:nine_lives": true,
+      "punorigins:weak_arms": true,
+      "origins:scare_creepers": true,
+      "origins:cat_vision": true
+    },
+    "punorigins:antimatter": {
+      "enabled": true,
+      "punorigins:flight": true,
+      "punorigins:move_faster": true
+    },
+    "punorigins:dragongod": {
+      "enabled": true,
+      "punorigins:damageboostplus": true,
+      "punorigins:defenseplus": true,
+      "punorigins:health_boost_plus": true,
+      "punorigins:boosttest": true,
+      "punorigins:launch": true,
+      "punorigins:elytra": true,
+      "punorigins:nofalldamage": true
+    },
+    "punorigins:dragonkin": {
+      "enabled": true,
+      "punorigins:elytra": true,
+      "punorigins:launch": true,
+      "punorigins:boosttest": true,
+      "punorigins:slow_on_ground": true,
+      "punorigins:nofalldamage": true,
+      "punorigins:health_boost": true,
+      "punorigins:defense": true,
+      "punorigins:damageboost": true
+    },
+    "punorigins:dragondemigod": {
+      "enabled": true,
+      "punorigins:boosttest": true,
+      "punorigins:defenseupgrade": true,
+      "punorigins:health_boost_upgrade": true,
+      "punorigins:launch": true,
+      "punorigins:nofalldamage": true,
+      "punorigins:elytra": true,
+      "punorigins:damageboost": true
+    },
+    "punorigins:mechanhis": {
+      "enabled": true,
+      "punorigins:heavy_hitter": true,
+      "punorigins:ore_affinity": true,
+      "punorigins:corrosion": true,
+      "punorigins:sturdy": true,
+      "punorigins:actuators": true,
+      "origins:no_cobweb_slowdown": true,
+      "punorigins:night_vision": true
+    },
+    "icarus:icarae": {
+      "enabled": true,
+      "icarus:powered_flight": true,
+      "origins:aerial_combatant": true,
+      "icarus:hollow_bones": true,
+      "origins:no_shield": true,
+      "origins:carnivore": true
+    }
+  }
+}

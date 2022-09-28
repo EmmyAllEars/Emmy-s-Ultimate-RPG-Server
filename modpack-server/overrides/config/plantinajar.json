@@ -1,0 +1,22 @@
+{
+  "dropItems": true,
+  "growthTime": 30,
+  "perItemGrowthTimes": {
+    "minecraft:wheat": -1,
+    "croptopia:tea_crop": -1,
+    "minecraft:cactus": -1,
+    "supplementaries:flax": -1,
+    "minecraft:sea_pickle": -1,
+    "croptopia:apple_sapling": -1,
+    "croptopia:olive_crop": -1,
+    "minecraft:rose_bush": -1,
+    "minecraft:spruce_sapling": -1,
+    "croptopia:vanilla_crop": -1,
+    "minecraft:sugar_cane": -1
+  },
+  "growthModifierRegexPatterns": {},
+  "blackList": [],
+  "forceBlackList": [
+    "croptopia:apple_sapling"
+  ]
+}
