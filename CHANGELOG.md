@@ -10,6 +10,8 @@
 **Removed:**
 - Straw Golem Rebaled
 
+View full changelog at https://github.com/EmmyAllEars/Emmy-s-Ultimate-RPG-Server/blob/main/CHANGELOG.md
+
 # v1.1.0 - 2022-09-18
 
 **Added:**
